@@ -1,6 +1,6 @@
 {
-  "status": "noupdates",
-  "version": "1.0",
-  "url": "",
-  "notes": "Your extension is up to date."
+  "status": "update",
+  "version": "1.1",
+  "url": "https://youtube.com",
+  "notes": "Added new features and fixed bugs."
 }
